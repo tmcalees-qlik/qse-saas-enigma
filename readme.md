@@ -1,5 +1,8 @@
 # Read Me
 
+## Purpose
+This is a very simple web page that connects to a Qlik Sense Enterprise SaaS (QSE SaaS) tenant and displays information about applications.  It is NOT intended to be a comprehensive example of using APIs with QSE SaaS.  It is meant to provide a very simple example of logging in and querying some information.
+
 ## Prerequisites for the QSE SaaS Enigma example:
 - A web server of your choice that supports SSL
 - I used the following:

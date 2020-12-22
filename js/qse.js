@@ -1,7 +1,7 @@
 // Populate these confiugration parameters with your tenant details
 var tenantConfig = {
-    uri: 'https://mcalees-cs.us.qlikcloud.com',
-    webIntegrationId: 'R7r1YNhugj5PhEwhSxtfxfcF5_jghYRe'
+    uri: 'https://<your-tenant-uri>',
+    webIntegrationId: '<your-web-integration-id>'
 };
 
 // This helper function takes a Qlik Sense SaaS API path and returns
